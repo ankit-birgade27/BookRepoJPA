@@ -8,7 +8,7 @@ public class BookmangementJpaApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BookmangementJpaApplication.class, args);
-		System.out.println("application started now");
+		System.out.println("application started ");
 	}
 
 }
